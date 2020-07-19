@@ -15,7 +15,7 @@
 /*
 Author: Osanda Malith Jayathissa (@OsandaMalith)
 Write-up: https://osandamalith.com/2020/07/19/hacking-the-world-with-html/
-Disclaimer: Author takes no responsibility of any damage you cause.
+Disclaimer: Author takes no responsibility for any damage you cause.
 Use this for educational purposes only.
 
 Copyright (c) 2020 Osanda Malith Jayathissa
