@@ -105,7 +105,7 @@ void inject(char *payload, char *fname) {
 #ifdef _WIN32
 	dst = _open(newFilename, O_RDONLY | O_BINARY, 0);
 #elif __unix__
-	dst = _open(newFilename, O_RDONLY, 0);
+	dst = open(newFilename, O_RDONLY, 0);
 #endif
 
 	hex[sz = read(dst, hex, 0x80)] = '\0';
